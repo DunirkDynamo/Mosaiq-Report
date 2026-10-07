@@ -1,0 +1,235 @@
+,Category,CPlan_Name,Count
+0,BRACHY              ,Brachy Prostate HDR Monotherapy incl. Salvage v.20230330,41
+1,BRACHY              ,Brachy Prostate HDR Boost  v.20230330,202
+2,BRACHY              ,Brachy HDR-Non Standard Vaginal Applicator (VMC/Vag CT-MR) v.202405012,1
+3,BRACHY              ,Brachy HDR-Cervix Radical Intracavitary v.20240512,10
+4,BRACHY              ,Brachy HDR-Cervix Radical Interstitial v.20240512,17
+5,BRACHY              ,Brachy HDR-Standard Vaginal Vault v.20230713,173
+6,BRACHY              ,Brachy HDR-Generic v.20141114,2
+7,BRACHY              ,Brachy HDR- Perineal Interstitial Template v.20231010,0
+8,BRACHY              ,Brachy Prostate LDR Monotherapy v.20250624,16
+9,BREAST              ,Breast – 4256 cGy MA39 Group 1A v.20250224,0
+10,BREAST              ,Breast – 2600/2850 cGy UltraHypo NO Nodes v.20250224,577
+11,BREAST              ,Breast – 2700/3000 cGy APBI v.20250224,134
+12,BREAST              ,Breast – 2600/2850 cGy Ultrahypo WITH Nodes v.20250224,44
+13,BREAST              ,Breast – MA39 Group 2A and 2B v.20250224,4
+14,BREAST              ,Breast – 800-3000 cGy PALLIATIVE WITH Nodes v.20250224,13
+15,BREAST              ,Breast – 800-3000 cGy PALLIATIVE NO Nodes v.20250224,12
+16,BREAST              ,Breast – 4005 cGy RHEAL Control Arm WITH Nodes v.20250224,5
+17,BREAST              ,Breast – 2600 cGy RHEAL Experimental Arm WITH Nodes v.20250224,4
+18,BREAST              ,Breast – 3500-4000 cGy Ablative v.20250327,4
+19,BREAST              ,Breast – 4005 cGy Hypo WITH Nodes v.20250327,333
+20,BREAST              ,Breast – 4005 cGy Hypo NO Nodes v.20250327,166
+21,CNS                 ,CyberKnife-Simple Brain Mets Single Fx v.20250328,65
+22,CNS                 ,CyberKnife-Complex Brain Mets Single Fx v.20250328,218
+23,CNS                 ,CyberKnife-Trigeminal Neuralgia v.20250328,9
+24,CNS                 ,CyberKnife-Acoustic Neuroma v.20250328,14
+25,CNS                 ,CyberKnife-Arteriovenous Malformation (AVM) v.20250328,3
+26,CNS                 ,Brain-Meningioma Grade I 5000-5400cGy v.20260224,0
+27,CNS                 ,Brain-Craniopharyngioma 5000-5400cGy v.20260224,0
+28,CNS                 ,Brain-Pituitary 4500-5400cGy v.20260224,0
+29,CNS                 ,Brain-Meningioma Grade II-III/Hemangio 5400-6000cGy v.20260224,0
+30,CNS                 ,Brain-Meningioma Grade II-III/Hemangio + CK Boost 6000-7000cGy v.20260224,0
+31,CNS                 ,Brain-Astroglial Grade II 4500-6000cGy v.20260224,0
+32,CNS                 ,Brain-Glioma Grade III/IV 2500-4005cGy v.20260224,5
+33,CNS                 ,Brain-Glioma Grade III/IV 6000cGy v.20260224,2
+34,CNS                 ,Brain-Glioma Trial Therabiome 6000 or 4005cGy v.20260224,0
+35,CNS                 ,Brain-Limited Ependymoma High Grade 5400-6000cGy v.20260224,0
+36,CNS                 ,Brain-Mets WBRT with Hippocampal Avoidance 2000-3000cGy v.20260224,1
+37,CNS                 ,Whole CNS/Medullo/PNET/Ependymoma Non-Germinoma/Leaukemia v.20260224,7
+38,CNS                 ,Spine-Limited Ependymoma/Meningioma/Schwannoma + CK Boost 4500-6000cGy v.20260224,0
+39,CNS                 ,Brain-Mets Stereotactic 3-5 Fx 2100-3000cGy v.20260224,8
+40,CNS                 ,Brain-Skull Base + CK Boost 7000-7600cGy v.20260224,0
+41,CNS                 ,CyberKnife-Spine SBRT v.20260224.,2
+42,CNS                 ,CyberKnife-Simple Brain Mets 3-5 Fx 2100-3000cGy v.20260224,3
+43,CNS                 ,CyberKnife-Complex Brain Mets 3-5 Fx 2100-3000cGy v.20260224,11
+44,CNS                 ,CyberKnife-Meningioma and Other Benign Brain SRS 1500-3000cGy v.20260224,0
+45,CNS                 ,CyberKnife-Pituitary SRS 1500-3000cGy v.20260224,1
+46,CNS                 ,CyberKnife-Pituitary Conventional Fractionation 4500-5400cGy v.20260224,0
+47,CNS                 ,CyberKnife-Meningioma Grade I-II Conventional Fractionation 5000-5400cGy v.20260224,0
+48,CNS                 ,CyberKnife-Craniopharyngioma/Other Benign Conventional Fractionation 5000-5400cGy v.20260224,0
+49,CNS                 ,Brain-Glioma Retreatment Stereotactic 5 Fx 2500-3500cGy v.20260224,1
+50,DERM                ,DERM-SCC/BCC/MCC/Melanoma-Photon-15 fx 3750-4000 cGy v.20240522.,9
+51,DERM                ,DERM-SCC/BCC/MCC/Melanoma-Photon-1-10 fx 600-3600cGy v.20240522.,25
+52,DERM                ,DERM-SCC/BCC-Electron PLANNED-1-5 fx v.20241107,2
+53,DERM                ,DERM-SCC/BCC-Electron PLANNED-10-15 fx v.20241107,47
+54,DERM                ,DERM-SCC/BCC-Electron PLANNED-20-25 fx v.20241107,15
+55,DERM                ,DERM-SCC/BCC-Electron PLANNED-30-35 fx v.20241107,0
+56,DERM                ,DERM-MELANOMA ADJUVANT-Photon/PLANNED Electron-20-33# v.20241107,7
+57,DERM                ,DERM-OTHER-Photon/PLANNED Electron-1-35# v.20241107,41
+58,DERM                ,DERM-SCC/BCC/MCC-Photon-1-5 fx 1800-3500 cGy v.20240522,32
+59,DERM                ,DERM-SCC/BCC/MCC-Photon-10-15 fx 4000-5000 cGy v.20240522,80
+60,DERM                ,DERM-SCC/BCC/MCC-Photon-20-25 fx v.20240522,125
+61,DERM                ,DERM-SCC/BCC/MCC-Photon-30-35 fx v.20240522,73
+62,DERM                ,DERM-SCC/BCC-Orthovoltage-1-5 fx v.20210120,32
+63,DERM                ,DERM-SCC/BCC-Orthovoltage-10-15 fx v.20210120,65
+64,DERM                ,DERM-SCC/BCC-Orthovoltage-20-35 fx v.20210120,6
+65,DERM                ,DERM-SCC/BCC-Electron NO PLAN-1-5 fx v.20220606,1
+66,DERM                ,DERM-SCC/BCC-Electron NO PLAN-10-15 fx v.20220606,16
+67,DERM                ,DERM-SCC/BCC-Electron NO PLAN-20-25 fx v.20220606,0
+68,DERM                ,DERM-SCC/BCC-Electron NO PLAN-30-35 fx v.20220606,0
+69,DERM                ,DERM-MELANOMA ADJUVANT-Electron NO PLAN-20-33 fx v.20220606,0
+70,DERM                ,"DERM-OTHER- Electron, NO PLAN,-1-35# v.20220606",0
+71,DERM                ,DERM-H&N Electron NO PLAN 5-10# v.20250918,0
+72,DERM                ,DERM-H&N Electron PLANNED 20-33# v.20250918,2
+73,DERM                ,DERM-H&N Electron PLANNED 5-10# v.20250918,1
+74,DERM                ,DERM-H&N Photon 5-10# v.20250918,7
+75,DERM                ,DERM-H&N Photon 20-33# v.20250918,20
+76,DERM                ,DERM-NONNEO Keloid Electron NO PLAN 1-5# v.20250918,0
+77,DERM                ,DERM-NONNEO Keloid Orthovoltage 1-5# v.20250918,13
+78,DERM                ,DERM-NONNEO Keloid PHOTON 1-5# v.20250918,3
+79,DERM                ,DERM-NONNEO Keloid Electron PLANNED 1-5# v.20250918,3
+80,GI                  ,Cyberknife-Liver Primary SBRT v.20251016,11
+81,GI                  ,Cyberknife-Liver METS SBRT v.20251016,10
+82,GI                  ,Liver-Primary SBRT MRL v.20260410,3
+83,GI                  ,Anal Canal v.20241216,57
+84,GI                  ,Rectum-Preoperative Short v.20241216,19
+85,GI                  ,Gastric-Adjuvant Post-Operative v.20250505,0
+86,GI                  ,Esophagus – Radical Cervical v. 20250505..,3
+87,GI                  ,Esophagus – Radical Non-Cervical v. 20250505.,18
+88,GI                  ,Liver-Primary Hypofractionated (Linac) v.20250505,13
+89,GI                  ,Liver-METS Hypofractionated (Linac) v.20250505,27
+90,GI                  ,Liver-Single Fraction Palliative v.20250505,22
+91,GI                  ,GI-Generic CURATIVE v.20250505,1
+92,GI                  ,GI-Generic PALLIATIVE - GI Tumor Primary Site v.20250505,300
+93,GI                  ,Cyberknife-Abdomen Nodal or Unspecified Met SBRT v.20250509,8
+94,GI                  ,Esophagus – Pre-Operative Non-Cervical v.20250509,14
+95,GI                  ,Pancreatic-Unresectable/Neo-Adjuvant/Adjuvant v. 20250509,30
+96,GI                  ,Rectum-NON-Operative Long v.20250509,124
+97,GI                  ,Rectum-Postoperative Long v.20250509,9
+98,GI                  ,Rectum-Preoperative Long v.20250509,44
+99,GI                  ,Rectum-CO.32 NEO-RT Trial v.20250509,4
+100,GU                  ,Kidney SBRT LINAC 5Fx v.20250702.,9
+101,GU                  ,Kidney SBRT LINAC 3Fx v.20250702.,5
+102,GU                  ,Prostate-SBRT LINAC DEFINE Trial with Focal Boost v.20231123,12
+103,GU                  ,GU-Generic Short Course v.20241025.,77
+104,GU                  ,GU-Unspecified Organs v.20241025,9
+105,GU                  ,Prostate-NRG-GU013 Arm 2 Mod Hypo with Nodes v.20241031,3
+106,GU                  ,Bladder - Moderate Hypofractionation With Nodes v.20220928,29
+107,GU                  ,Prostate-Moderate Hypofractionation v.20250107,231
+108,GU                  ,Prostate-With Nodes-After HDR Prostate v.20250107,60
+109,GU                  ,Prostate-(Mod Hypo) High Risk With Nodes Single Phase v.20250107,209
+110,GU                  ,Prostate-NRG-GU013 Arm 1 SBRT LINAC with Nodes v.20250108,5
+111,GU                  ,Bladder-With Nodes v.20220928,17
+112,GU                  ,Bladder-Without Nodes v.20220928,11
+113,GU                  ,Bladder - Moderate Hypofractionation Without Nodes v.20220928,113
+114,GU                  ,Seminoma-Stage I v.20220928,2
+115,GU                  ,Seminoma-Non-Bulky -Stage II v.20220928,13
+116,GU                  ,Prostate-Without Nodes-After HDR Prostate v.20221006,83
+117,GU                  ,Prostate-SBRT LINAC v.20240621,150
+118,GU                  ,Prostate-Post-Surgical With Nodes v.20240621,14
+119,GU                  ,Prostate-Post-Surgical Without Nodes v.20240621,2
+120,GU                  ,Prostate-Post-Surgical Moderate Hypofractionation with Nodes Single Phase v.20240621,107
+121,GU                  ,Prostate-Post-Surgical Moderate Hypofractionation without Nodes v.20240621,37
+122,GU                  ,Bladder-Post-Operative v.20201120,1
+123,GU                  ,GU-Oligomet-Nodal or Unspecified-SBRT v.20250902,44
+124,GU                  ,Prostate-Palliative 5 Fraction v.20260330,3
+125,GU                  ,Prostate-SBRT MRLinac v.20251219.,19
+126,GYNAE               ,Gyne-Short Course v.20250915,22
+127,GYNAE               ,Cervix-Radical Pelvis +/- PA Nodes With Chemo v.20250915,16
+128,GYNAE               ,Cervix-Radical Chemo/RT NO Brachy v.20250915,0
+129,GYNAE               ,Cervix-Post Op Pelvis +/-Para-aortics v.20250915,7
+130,GYNAE               ,Endo-Post Op Pelvis +/-Para-aortics v.20250915,49
+131,GYNAE               ,Gyne-Pelvis Unspecified v.20250915,28
+132,GYNAE               ,Vulva-IMRT Radical with Chemo v. 20211207,23
+133,GYNAE               ,Vulva-IMRT Adj Vulva +/- Groin W Chemo v. 20211207,47
+134,GYNAE               ,Vagina-Radical with Chemo v.20211207,14
+135,H&N                 ,H&N-Standard 7000cGy v.20260312,5
+136,H&N                 ,H&N-HYPO 5000-6000cGy v.20260312,2
+137,H&N                 ,H&N-Nasopharynx 7000cGy v.20260312,0
+138,H&N                 ,H&N-Other Cancers 6000-7000cGy v.20260312,0
+139,H&N                 ,H&N-SBRT 2700-5000cGy v.20260312,0
+140,H&N                 ,H&N-Retreat BID 6600cGy v.20260312,0
+141,H&N                 ,H&N-Trial NRG-HN009 V.20260312,0
+142,H&N                 ,H&N-Early Stage Larynx 5240-6525cGy v.20260312,1
+143,H&N                 ,H&N-Adjuvant Standard 6000-6996cGy (inc.Sarcoma) v.20260312,2
+144,H&N                 ,H&N-800-3000cGy in 1-10 Fx v.20260312,2
+145,H&N                 ,Endocrine-Thyroid/Parathyroid 5000-7000cGy v.20260312,0
+146,H&N                 ,Endocrine-Graves' Disease/Orbits 2000cGy v.20260312,0
+147,H&N                 ,H&N-Trial CCTG-HN.13 STD ARM v.20260428,0
+148,H&N                 ,H&N-Trial CCTG-HN.13 SBRT ARM v.20260428.,0
+149,LUNG                ,Lung-Adjuvant Mediastinal RT NSCLC v.20201120,18
+150,LUNG                ,Lung-Early Inoperable NSCLC v.20201120,141
+151,LUNG                ,Lung-Limited Stage SCLC v.20201120,64
+152,LUNG                ,Lung-Pre-Operative NSCLC v.20201120,1
+153,LUNG                ,Lung-SBRT  v.20201120,641
+154,LUNG                ,Lung-Keynote 867 v.20201120,0
+155,LUNG                ,Lung-STABLES-MATES SBRT v.20201120,1
+156,LUNG                ,Lung-Locally Advanced/Radical NSCLC v. 20201120,261
+157,LUNG                ,Lung-SBRT Oligo Metastatic v.20201120,256
+158,LUNG                ,Lung-PCI with Hippocampal Avoidance v.20240628,6
+159,LUNG                ,Lung-Prophylactic Cranial Irradiation (PCI) v.20240628,0
+160,LUNG                ,Lung SBRT - Single Fx - Metastatic - NOT FOR CENTRAL TUMOURS v.20221122,16
+161,LUNG                ,Lung SBRT - Single Fx - Primary - NOT FOR CENTRAL TUMOURS v.20221122,17
+162,LUNG                ,Heart Ablative- SBRT  v.20221122,43
+163,LUNG                ,Lung Palliative Primary (5-10 Fx) v.202105270,347
+164,LUNG                ,Lung Palliative Primary (1-2 Fx) v.202105270,79
+165,LUNG                ,Lung-Limited Stage SCLC BID v.20250127,16
+166,LYMPHOMA            ,Lymphoma Multiple Myeloma v.20250123,129
+167,LYMPHOMA            ,Lymphoma Solitary Plasmacytoma v.20250123,4
+168,LYMPHOMA            ,TBI Arc Single Day v.20230605,29
+169,LYMPHOMA            ,Lymphoma Mycosis Fungoides v.20210226,110
+170,LYMPHOMA            ,Leukemia CNS WBRT Prophylaxis v.20210226,4
+171,LYMPHOMA            ,Lymphoma Head & Neck v.20250910,16
+172,LYMPHOMA            ,Lymphoma-Trial ODIN Bridging RT for CAR-T Cell Therapy 200cGy v.20260326,0
+173,LYMPHOMA            ,Lymphoma CNS Non-Hodgkin with Chemo Opt Boost v.20210226..,8
+174,LYMPHOMA            ,Lymphoma CNS Non-Hodgkin NO Chemo Opt Boost v.20210226..,15
+175,LYMPHOMA            ,Total Nodal and/or Marrow Irradiation v.20250125.,21
+176,LYMPHOMA            ,Lymphoma ABDO Non-Hodgkin Opt Boost v.20210226.,12
+177,LYMPHOMA            ,TBI Arc Multiple Days v.20230310.,17
+178,LYMPHOMA            ,Lymphoma Thoracic Non-Hodgkin Opt Boost  v.20250123.,12
+179,LYMPHOMA            ,Lymphoma Non-ABDO (other) v.20210226.,43
+180,LYMPHOMA            ,Splenic Low Dose Irradiation v.20250811,0
+181,LYMPHOMA            ,Leukemia Testicular v.20250811,0
+182,LYMPHOMA            ,Lymphoma Hodgkin Disease v.20250811,13
+183,PALLIATIVE          ,Palliative-Bone Mets Conventional Single Fx v.20260309,73
+184,PALLIATIVE          ,Palliative-Bone Mets Conventional 2-10 Fx v.20260309,69
+185,PALLIATIVE          ,Palliative-Unspecified Mets (not bone) Conventional Single Fx v.20260309,12
+186,PALLIATIVE          ,Palliative-Unspecified Mets (not bone) Conventional 2-10 Fx v.20260309,28
+187,PALLIATIVE          ,Palliative-Whole Brain Mets 2000-3000cGy v.20260309,6
+188,PALLIATIVE          ,Palliative-Bone Mets SBRT Non-Spine 3-5 Fx v.20260309,5
+189,PALLIATIVE          ,Palliative-On-call and/or Emergency Bone Mets Single Fx v.20260309,0
+190,PALLIATIVE          ,Palliative-On-call and/or Emergency Bone Mets 2-5 Fx v.20260309,2
+191,PALLIATIVE          ,Palliative-On-call and/or Emergency Unspecified Mets Single Fx v.20260309,0
+192,PALLIATIVE          ,Palliative-On-call and/or Emergency Unspecified Mets 2-5 Fx v.20260309,0
+193,PALLIATIVE          ,Palliative-On-call and/or Emergency Whole Brain Mets 2000-3000cGy v.20260309,0
+194,PALLIATIVE          ,Palliative-On-call and/or Emergency GI Primary Single Fx v.20260309,0
+195,PALLIATIVE          ,Palliative-On-call and/or Emergency GI Primary 2-5 Fx v.20260309,0
+196,PALLIATIVE          ,Palliative-On-call and/or Emergency GU Primary Single Fx v.20260309,0
+197,PALLIATIVE          ,Palliative-On-call and/or Emergency GU Primary 2-5 Fx v.20260309,0
+198,PALLIATIVE          ,Palliative-On-call and/or Emergency Gyne Primary Single Fx v.20260309,1
+199,PALLIATIVE          ,Palliative-On-call and/or Emergency Gyne Primary 2-5 Fx v.20260309,0
+200,PALLIATIVE          ,Palliative-On-call and/or Emergency H&N Primary Single Fx v.20260309,0
+201,PALLIATIVE          ,Palliative-On-call and/or Emergency H&N Primary 2-5 Fx v.20260309,0
+202,PALLIATIVE          ,Palliative-On-call and/or Emergency Lung Primary Single Fx v.20260309,0
+203,PALLIATIVE          ,Palliative-On-call and/or Emergency Lung Primary 2-5 Fx v.20260309,0
+204,PALLIATIVE          ,Clinical MarkUp Bone Mets Conventional Single Fx v.20210329.,0
+205,PALLIATIVE          ,Clinical MarkUp Bone Mets Conventional 2-10 Fx v.20210329.,0
+206,PALLIATIVE          ,Clinical MarkUp Unspecified Mets Conventional Single Fx v.20210329.,0
+207,PALLIATIVE          ,Clinical MarkUp Unspecified Mets Conventional 2-20 Fx v.20210329.,0
+208,PALLIATIVE          ,Palliative-Bone Mets SBRT Spine 2-5 Fx v.20250612..,0
+209,PEDIATRICS          ,Pediatric – Neuroblastoma (post op) v.20250801,3
+210,PEDIATRICS          ,Pediatric – CNS Boost 360-1800cGy v.20250801,0
+211,PEDIATRICS          ,Pediatric – CNS Focal RT 4500-6000cGy v.20250801,4
+212,PEDIATRICS          ,Pediatric – CNS Focal RT 1800-4320cGy v.20250801.,0
+213,PEDIATRICS          ,Pediatric – Non-SBRT Metastases v.20250801,6
+214,PEDIATRICS          ,Pediatric – SBRT Metastases v.20250801,3
+215,PEDIATRICS          ,Pediatric – Wilms Tumour (+/- Boost) or Whole Abdomen v.20250325,6
+216,PEDIATRICS          ,Pediatric – Hodgkins Disease (+/- Boost) v.20250325...,1
+217,PEDIATRICS          ,Pediatric – SRS Brain Metastases Short Course v.20250325.,0
+218,PEDIATRICS          ,Pediatric – Chloroma v.20250325.,0
+219,PEDIATRICS          ,Pediatric – ALL – RT for Testicular Disease v.20250325,0
+220,PEDIATRICS          ,Pediatric – Unresected Soft Tissue Tumours v.20250325,17
+221,PEDIATRICS          ,Pediatric – CNS Ventricular RT v.20241010...,0
+222,PEDIATRICS          ,Pediatric – Post Op Boost Soft Tissue Solid Tumour v.20250325..,0
+223,PEDIATRICS          ,Pediatric – Solid Tumour Abdomen (partial or whole) v.20241010.,0
+224,PEDIATRICS          ,Pediatric – Metastases Whole Lung -  v.20241010.,1
+225,PEDIATRICS          ,Pediatric – Metastases Whole Brain v.20241010...,0
+226,PEDIATRICS          ,Pediatric – Medullo / PNET Cranio-spinal v.20241010..,15
+227,PEDIATRICS          ,Pediatric – HEM Cranio-spinal v.20241010.,0
+228,PEDIATRICS          ,Pediatric – HEM Whole Brain RT v.20241010.,0
+229,SARCOMA             ,Heterotopic Bone Formation 700cGy v.20260424,0
+230,SARCOMA             ,Sarcoma-Retroperitoneal ABDO 4500-5000cGy Pre/Post-Op v.20260424,0
+231,SARCOMA             ,Sarcoma-Extremity/Trunk 4260-5000cGy Pre-Op v.20260424,0
+232,SARCOMA             ,Sarcoma-Extremity/Trunk 6000-7000cGy Post-Op v.20260424,0
+233,SARCOMA             ,Sarcoma-Extremity/Trunk 3000-7000cGy Primary High Dose v.20260424,0
